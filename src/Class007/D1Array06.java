@@ -11,12 +11,12 @@ write a loop to count how many values in above array are false
         for (int i = 0; i < flags.length; i++) {
             if (!flags[i]) {
                 count++;
-            }
+            } // example of noting
         }
         System.out.println("the total of false " + count);
 
 //to get the count of true(s)
-        int count2 = 0;
+        int count2 = 0; // sample not
         for (int j = 0; j < flags.length; j++) {
             if (flags[j]) {
                 count2++; // this is a counter
@@ -24,6 +24,9 @@ write a loop to count how many values in above array are false
         }
         System.out.println("The total of true " + count2+".");
 
+        /*
+        this is an update
+         */
 
     }
 }
