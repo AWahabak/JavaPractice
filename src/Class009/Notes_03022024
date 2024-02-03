@@ -1,2 +1,24 @@
 git clone https://github.com/AWahabak/JavaPractice.git
+ git fetch
+ git pull
+
+------------------
+
+Branching Statements (break, continue, return)
+While working with loops, sometimes you might want to skip some statements or terminate the loop.
+In such cases, break and continue statements are used.
+
+break;
+-> terminates a for, while, or do-while loop and switch statments
+----------------------------------------
+continue;
+--> Directly go at the next iteration of a for, while or do-while loop
+After the continue statement, the program moves to the end of the loop. And, test expression is evaluated
+(update statement is evaluated in case of the for loop).
+
+The continue statement is almost always used in decision-making statements
+------------------------------------
+return;
+When a method have return type, the result is returned through return keyword
+
 
