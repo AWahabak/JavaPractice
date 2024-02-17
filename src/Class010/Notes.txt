@@ -1,0 +1,75 @@
+What is OOP Programming in Java
+Object-oriented programming (OOP) is a computer programming model that organizes software design around data,
+or objects, rather than functions and logic.
+
+Prevention of code repeatition, security, efficiency, less complexity
+------
+https://en.wikipedia.org/wiki/List_of_object-oriented_programming_languages
+------
+Object
+Everything that exists in the real world is an object.
+And also an object is an instance of a class that models a real-world object.
+One class may produce several objects as an example:-
+from a house blueprint, we can build several houses similar but location and name are different.
+-----
+Class - Classification > category, department, section, wing, division, compartmentation,
+senf
+-----
+Class > Object
+Vehicle > (Car, Motorbike, Cycle, Lorry, Truck, Bus etc)
+Car > (normal car, sports car, SUV, powered-car)
+Cycle > (normal bike, sports bike, kids bike, 3-wheel bike)
+-----
+Object
+- Attributes - cherectristic, properties, fields, data,
+- Methods - capabilities, function, action,
+(block of code which is used repeatly)
+Eg: method fight in a game programming
+Eg: Car
+
+Car = object (racing game)
+Properties - color, model, make, weight, height, number of door etc like year
+Action - start, brake, accelerate, turn, move, reverse, horn
+
+Dog = object
+Attributes: color, breed, height, size, etc
+Methods: run, bite, bark, sense, smell etc
+--------------
+Animal > parent class
+- function: run(), eat(), sleep())
+- properties: age, color, weight
+
+Cat > child class   - run, eat, sleep, snores
+                    - age, color, weight, shape
+
+Dog > child class   - run, eat, sleep, barks, bite
+                    - age, color, weight, breed
+
+Horse > child       - run, eat, sleep, jumps, seat
+                    - age, color, weight, cost
+
+--------------------------------------------------------
+Polimorphism
+an object which can take many forms
+
+function + > adding
+
+= 2 + 2
+= 2 + 3 + 4
+= 2+3+4+6
+---------------------------------------------------------
+Abstraction > when the mechanism is not clear or unknown but the function or capability is required or needed
+
+vehicle > start (code), move (programming), stop (logic development), brake
+car > start, move, stop(), brake()
+---------------------------------------------------------
+Encapsulition - to hide information, to encapsule data
+
+banking system - account number, pin code, password
+encapsulate(password)
+encapsulate(pin)
+
+balance
+add
+minus
+

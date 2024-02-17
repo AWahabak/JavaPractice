@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="24fa3950-7061-4104-9962-7bae0b0c136d" name="Changes" comment="Enum Example">
-      <change afterPath="$PROJECT_DIR$/src/Class009/EgBreak.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class009/EgContinue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class009/EgContinue002.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class009/Notes_03022024" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class009/Notes_03022024" afterDir="false" />
-    </list>
+    <list default="true" id="24fa3950-7061-4104-9962-7bae0b0c136d" name="Changes" comment="Enum Example" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,7 +154,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
